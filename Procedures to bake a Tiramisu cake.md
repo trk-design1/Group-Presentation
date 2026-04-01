@@ -14,3 +14,97 @@ INGREDIENTS
 7. 2 tablespoons cocoa powder (unsweetened)
 8. 1 teaspoon vanilla extract (optional)
 9. 2 tablespoons coffee liqueur (optional)
+
+EQUIPMENTS
+1. Mixing bowls (2–3)
+2. Electric mixer or whisk
+3. Spatula
+4. Measuring cups and spoons
+5. Baking dish (8x8 inch or similar)
+6. Fine mesh sieve (for cocoa dusting)
+7. Refrigerator
+
+PROCEDURES
+STEP 1: Prepare the Coffee Mixture
+![Cold-Brew-Coffee-Ingredients-1](https://github.com/user-attachments/assets/ce72a3b1-3e2d-4ca6-af20-1da2134c970c)
+Brew two cups of strong coffee and allow it to cool completely to room temperature. If desired, add coffee liqueur for enhanced flavor. Cooling the coffee is important to prevent the ladyfinger biscuits from becoming overly soggy during dipping.
+
+Step 2: Separate the Eggs
+![images (1)](https://github.com/user-attachments/assets/d33a3f1f-f845-4d92-9d2f-b92222991a59)
+Carefully separate the egg yolks from the egg whites into two different bowls. Ensure that no yolk enters the egg whites, as this will affect the whipping process. Egg whites must be clean to achieve proper volume.
+
+Step 3: Prepare the Egg Yolk Mixture
+Add sugar to the egg yolks and whisk using an electric mixer until the mixture becomes pale, thick, and creamy. This step incorporates air and creates the base for the tiramisu cream.
+
+Step 4: Add Mascarpone Cheese
+![mascarpone-cream-7](https://github.com/user-attachments/assets/077ef537-cc83-4dc3-a387-a79a8dff7982)
+Gently fold mascarpone cheese into the egg yolk mixture using a spatula. Mix until smooth without overmixing. Overmixing may cause the mixture to become too runny.
+
+Step 5: Whip the Cream
+In a separate bowl, whip heavy cream until stiff peaks form. This provides structure and lightness to the tiramisu filling.
+
+Step 6: Combine Cream Mixtures
+![__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats com__recipes__images__2017__06__20170526-tiramisu-vicky-wasik-41-00531445710a4dfa83ffc7d3a65abb12](https://github.com/user-attachments/assets/d727ac5e-14fb-4fb6-b26b-1aa5a48319f1)
+
+Gently fold the whipped cream into the mascarpone mixture. Use slow folding motions to maintain airiness. The final mixture should be smooth and fluffy.
+
+Visual Example Suggestions:
+
+Folding technique demonstration
+Final tiramisu cream texture
+Step 7: Prepare Ladyfingers
+
+Quickly dip each ladyfinger biscuit into the cooled coffee mixture for about 1–2 seconds. Do not soak too long, as they will become overly soft.
+
+Visual Example Suggestions:
+
+Ladyfingers being dipped into coffee
+Properly soaked vs over-soaked example
+Step 8: Create the First Layer
+
+Arrange the dipped ladyfingers in a single layer at the bottom of the baking dish. Ensure the base is fully covered without large gaps.
+
+Visual Example Suggestions:
+
+Layered ladyfingers in dish
+Top-down view of arrangement
+Step 9: Add Cream Layer
+
+Spread half of the mascarpone mixture evenly over the ladyfinger layer. Use a spatula to smooth the surface.
+
+Visual Example Suggestions:
+
+Cream spread evenly
+Smoothing with spatula
+Step 10: Repeat Layers
+
+Add another layer of dipped ladyfingers followed by the remaining mascarpone cream. Smooth the top evenly.
+
+Visual Example Suggestions:
+
+Second layer assembly
+Completed layered structure
+Step 11: Dust with Cocoa Powder
+
+Using a fine mesh sieve, dust cocoa powder evenly over the top. This provides the signature tiramisu appearance and flavor.
+
+Visual Example Suggestions:
+
+Cocoa dusting process
+Finished top layer 🍫
+Step 12: Refrigerate
+
+Cover the dish and refrigerate for at least 4–6 hours, preferably overnight. This allows the flavors to blend and the dessert to set properly.
+
+Visual Example Suggestions:
+
+Covered tiramisu in refrigerator
+Before and after chilling comparison
+Step 13: Serve the Tiramisu
+
+Slice into portions and serve chilled. Optional garnishes include chocolate shavings or coffee beans.
+
+Visual Example Suggestions:
+
+Sliced tiramisu piece
+Plated serving with garnish
