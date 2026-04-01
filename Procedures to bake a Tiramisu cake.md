@@ -73,8 +73,10 @@ Step 12: Refrigerate
 Cover the dish and refrigerate for at least 4–6 hours, preferably overnight. This allows the flavors to blend and the dessert to set properly.
 
 Step 13: Serve the Tiramisu
-Slice![1](https://github.com/user-attachments/assets/54deb6f5-70b1-4de9-9ea0-af7e0a6d837f)
- into portions and serve chilled. Optional garnishes include chocolate shavings or coffee beans.
+
+![1](https://github.com/user-attachments/assets/54deb6f5-70b1-4de9-9ea0-af7e0a6d837f)
+
+Slice into portions and serve chilled. Optional garnishes include chocolate shavings or coffee beans.
 
 QUALITY CHECK
 1. Layers should be visible and stable
