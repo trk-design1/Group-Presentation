@@ -45,21 +45,12 @@ In a separate bowl, whip heavy cream until stiff peaks form. This provides struc
 
 Step 6: Combine Cream Mixtures
 ![__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats com__recipes__images__2017__06__20170526-tiramisu-vicky-wasik-41-00531445710a4dfa83ffc7d3a65abb12](https://github.com/user-attachments/assets/d727ac5e-14fb-4fb6-b26b-1aa5a48319f1)
-
 Gently fold the whipped cream into the mascarpone mixture. Use slow folding motions to maintain airiness. The final mixture should be smooth and fluffy.
 
-Visual Example Suggestions:
-
-Folding technique demonstration
-Final tiramisu cream texture
 Step 7: Prepare Ladyfingers
-
+![Ladyfingers-Blog1](https://github.com/user-attachments/assets/b5f1fb68-0bbd-4a1b-80f8-f822632bd0a5)
 Quickly dip each ladyfinger biscuit into the cooled coffee mixture for about 1–2 seconds. Do not soak too long, as they will become overly soft.
 
-Visual Example Suggestions:
-
-Ladyfingers being dipped into coffee
-Properly soaked vs over-soaked example
 Step 8: Create the First Layer
 
 Arrange the dipped ladyfingers in a single layer at the bottom of the baking dish. Ensure the base is fully covered without large gaps.
