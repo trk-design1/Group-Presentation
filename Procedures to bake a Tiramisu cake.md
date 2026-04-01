@@ -52,50 +52,23 @@ Step 7: Prepare Ladyfingers
 Quickly dip each ladyfinger biscuit into the cooled coffee mixture for about 1–2 seconds. Do not soak too long, as they will become overly soft.
 
 Step 8: Create the First Layer
-
 Arrange the dipped ladyfingers in a single layer at the bottom of the baking dish. Ensure the base is fully covered without large gaps.
 
-Visual Example Suggestions:
-
-Layered ladyfingers in dish
-Top-down view of arrangement
 Step 9: Add Cream Layer
-
 Spread half of the mascarpone mixture evenly over the ladyfinger layer. Use a spatula to smooth the surface.
 
-Visual Example Suggestions:
-
-Cream spread evenly
-Smoothing with spatula
 Step 10: Repeat Layers
-
+![download](https://github.com/user-attachments/assets/ca0a3769-910f-445e-8050-20cac87699b0)
 Add another layer of dipped ladyfingers followed by the remaining mascarpone cream. Smooth the top evenly.
 
-Visual Example Suggestions:
-
-Second layer assembly
-Completed layered structure
 Step 11: Dust with Cocoa Powder
-
+![Tiramisu-Recipe-2](https://github.com/user-attachments/assets/84bd6bd2-e642-494c-9e56-e1fc49fcefd3)
 Using a fine mesh sieve, dust cocoa powder evenly over the top. This provides the signature tiramisu appearance and flavor.
 
-Visual Example Suggestions:
-
-Cocoa dusting process
-Finished top layer 🍫
 Step 12: Refrigerate
-
 Cover the dish and refrigerate for at least 4–6 hours, preferably overnight. This allows the flavors to blend and the dessert to set properly.
 
-Visual Example Suggestions:
-
-Covered tiramisu in refrigerator
-Before and after chilling comparison
 Step 13: Serve the Tiramisu
+Slice![1](https://github.com/user-attachments/assets/54deb6f5-70b1-4de9-9ea0-af7e0a6d837f)
+ into portions and serve chilled. Optional garnishes include chocolate shavings or coffee beans.
 
-Slice into portions and serve chilled. Optional garnishes include chocolate shavings or coffee beans.
-
-Visual Example Suggestions:
-
-Sliced tiramisu piece
-Plated serving with garnish
