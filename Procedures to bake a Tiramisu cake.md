@@ -30,7 +30,9 @@ STEP 1: Prepare the Coffee Mixture
 Brew two cups of strong coffee and allow it to cool completely to room temperature. If desired, add coffee liqueur for enhanced flavor. Cooling the coffee is important to prevent the ladyfinger biscuits from becoming overly soggy during dipping.
 
 Step 2: Separate the Eggs
+
 ![images (1)](https://github.com/user-attachments/assets/d33a3f1f-f845-4d92-9d2f-b92222991a59)
+
 Carefully separate the egg yolks from the egg whites into two different bowls. Ensure that no yolk enters the egg whites, as this will affect the whipping process. Egg whites must be clean to achieve proper volume.
 
 Step 3: Prepare the Egg Yolk Mixture
