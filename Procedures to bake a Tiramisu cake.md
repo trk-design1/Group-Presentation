@@ -74,3 +74,14 @@ Step 13: Serve the Tiramisu
 Slice![1](https://github.com/user-attachments/assets/54deb6f5-70b1-4de9-9ea0-af7e0a6d837f)
  into portions and serve chilled. Optional garnishes include chocolate shavings or coffee beans.
 
+QUALITY CHECK
+1. Layers should be visible and stable
+2. Cream should be smooth and not runny
+3. Ladyfingers should be moist but not soggy
+4. Cocoa powder evenly distributed
+
+SAFETY CONSIDERATIONS
+1. Use fresh eggs
+2. Refrigerate promptly
+3. Keep dairy ingredients chilled
+4. Use clean utensils to avoid contamination
