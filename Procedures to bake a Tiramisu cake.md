@@ -58,7 +58,9 @@ Step 9: Add Cream Layer
 Spread half of the mascarpone mixture evenly over the ladyfinger layer. Use a spatula to smooth the surface.
 
 Step 10: Repeat Layers
+
 ![download](https://github.com/user-attachments/assets/ca0a3769-910f-445e-8050-20cac87699b0)
+
 Add another layer of dipped ladyfingers followed by the remaining mascarpone cream. Smooth the top evenly.
 
 Step 11: Dust with Cocoa Powder
