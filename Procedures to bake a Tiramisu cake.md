@@ -13,6 +13,19 @@ REVERSION INFO
 |-------|----------|-------------------------|-------------|
 |1.0    |01/04/2026|Initial document creation|Samora Byansi|
 
+APPROVAL TABLE
+|Name     |Title  |Date      |
+|---------|-------|----------|
+|Mr. Felix|Teacher|02/04/2026|
+
+ACCOUNTABILITY MATRIX
+|Name              |Responsibility               |
+|------------------|-----------------------------|
+|Roman Onisodueniya|Creation of the tiramisu cake|
+|Enakeno Zenith    |Aquisition of materials      |
+|Camryn Ryle       |Safety check                 |
+|Samora Byansi     |Creation of the tiramisu cake|
+
 EQUIPMENTS/MATERIALS NEEDED
 INGREDIENTS
 1. 24–30 ladyfinger biscuits (Savoiardi)
