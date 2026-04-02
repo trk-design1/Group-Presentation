@@ -1,7 +1,17 @@
 PROCEDURES ON HOW TO BAKE AND SERVE A TIRAMISU CAKE
 
-SCOPE
+DESCRIPTION:
+
+Tiramisu cake is a dessert that transforms the traditional Italian, coffee-soaked tiramisu into a structured layer cake. It typically features light sponge cake layers (or ladyfingers) soaked in espresso and liquor, filled and frosted with a rich, fluffy mascarpone cream and finished with a dusting of cocoa powder.
+
+SCOPE:
+
 This process applies to individuals preparing a tiramisu cake in a home kitchen environment.
+
+REVERSION INFO
+|Version|Date      |Description              |Author       |
+|-------|----------|-------------------------|-------------|
+|1.0    |01/04/2026|Initial document creation|Samora Byansi|
 
 EQUIPMENTS/MATERIALS NEEDED
 INGREDIENTS
@@ -89,3 +99,10 @@ SAFETY CONSIDERATIONS
 2. Refrigerate promptly
 3. Keep dairy ingredients chilled
 4. Use clean utensils to avoid contamination
+
+REFERENCES
+1. BBC Good Food. (n.d.). Best ever tiramisu recipe. Retrieved from BBC Good Food.
+2. Culinary Institute of America. (n.d.). Classic Italian tiramisu recipe.
+3. Eataly. (n.d.). Traditional tiramisù recipe.
+4. FoodReference.com. (n.d.). Tiramisu dessert recipe.
+5. Wikipedia contributors. (n.d.). Tiramisu.
